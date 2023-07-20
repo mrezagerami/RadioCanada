@@ -1,0 +1,8 @@
+dash
+numpy
+pandas
+plotly
+gunicorn
+networkx
+pyvis
+webcolors
